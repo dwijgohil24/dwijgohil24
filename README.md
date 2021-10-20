@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DWIJSINH H GOHIL</h1>
-<h3 align="center">A passionate Web and flutter app developer. Sophomore at Dharmsinh Desai University, currently working as web developer @Malgadi Books startup and loves to do competitive programming and solving real life problem using programming</h3>
+<h3 align="center">A passionate Web and flutter app developer. Sophomore at Dharmsinh Desai University, currently working as web developer @Malgadi Books startup and Team member of Mobile development Team @DSC-DDU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwijgohil24&label=Profile%20views&color=0e75b6&style=flat" alt="dwijgohil24" /> </p>
 
