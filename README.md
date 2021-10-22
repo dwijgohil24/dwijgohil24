@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwijgohil24&label=Profile%20views&color=0e75b6&style=flat" alt="dwijgohil24" /> </p>
 
+![Blue Modern Content Creator LinkedIn Banner (1)](https://user-images.githubusercontent.com/80956416/138425767-8d1b1d92-9ed4-4ccc-bf6b-7c860b7238ad.png)
 
-![Blue Modern Content Creator LinkedIn Banner](https://user-images.githubusercontent.com/80956416/138424135-bb71df39-7eee-4db9-9ae1-aa82e58ffdff.png)
 
 
 - 🔭 I’m currently working on : **Malgadi Books Startup**
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me : **dwijgohil24@gmail.com**
 
-- 📄 My Resume : **https://www.linkedin.com/in/dwijsinh-h-gohil-2415521b9/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADLN79EBQ46bpV7akroZxbEjdIjjKS8WrnQ,1635469625459)**
+- 📄 My Resume : **https://bit.ly/3B2UPET**
 
 
 <h3 align="left">Connect with me:</h3>
