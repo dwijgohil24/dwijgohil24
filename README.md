@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on : **Flutter + Visual Cryptography + AI/ML**
 
-- 🌱 I’m currently learning : **React Js, Node Js**
+- 🌱 I’m currently learning : **AI / ML**
 
-- 💬 Ask me about : **HTML,CSS,PHP and MySQL**
+- 💬 Ask me about : **C++, COMPETETIVE PROGRAMMING, FLUTTER, AI/ML**
 
 - 📫 How to reach me : **dwijgohil24@gmail.com**
 
