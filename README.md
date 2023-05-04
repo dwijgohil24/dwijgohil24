@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on : **Malgadi Books Startup**
+- 🔭 I’m currently working on : **Flutter + Visual Cryptography + AI/ML**
 
 - 🌱 I’m currently learning : **React Js, Node Js**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me : **dwijgohil24@gmail.com**
 
-- 📄 My Resume : **https://bit.ly/3B2UPET**
+- 📄 My Resume : **https://bit.ly/dwij_resume**
 
 
 <h3 align="left">Connect with me:</h3>
