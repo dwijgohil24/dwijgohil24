@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DWIJSINH H GOHIL <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"</h1>
 
-<h3 align="center">A passionate Web and flutter app developer. Sophomore at Dharmsinh Desai University, currently working as web developer @Malgadi Books startup and Team member of Mobile development Team @DSC-DDU</h3>
+<h3 align="center">A passionate Web and flutter app developer. Pre-Final year student at Dharmsinh Desai University. Mobile Development Team Member @GDSC-DDU, currently working on some awesome project using tech-stack of flutter and MERN along with AI/ML + Visual Cryptography.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwijgohil24&label=Profile%20views&color=0e75b6&style=flat" alt="dwijgohil24" /> </p>
 
