@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate developer & programmer. Final year student at Dharmsinh Desai University. Mobile Development Team Lead @GDSC-DDU, currently working on some awesome projects using tech-stack of flutter and MERN along with AI/ML + Visual Cryptography.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwijgohil24&label=Profile%20views&color=0e75b6&style=flat" alt="dwijgohil24" /> </p>
+
 
 ![Blue Modern Content Creator LinkedIn Banner (1)](https://user-images.githubusercontent.com/80956416/138425767-8d1b1d92-9ed4-4ccc-bf6b-7c860b7238ad.png)
 
