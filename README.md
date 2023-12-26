@@ -1,6 +1,6 @@
 <p><h1 align="center">Hi 👋, I'm DWIJSINH H GOHIL <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"</h1></p>
 
-<h3 align="center">A passionate developer & programmer. Final year student at Dharmsinh Desai University. Mobile Development Team Lead @GDSC-DDU, currently working on some awesome projects using tech-stack of flutter and MERN along with AI/ML + Visual Cryptography.</h3>
+<h3 align="center">A passionate developer & programmer. Currently working @ Meditab Softwares as a Programmer Analyst Trainee. Mobile Development Team Lead @GDSC-DDU.</h3>
 
 
 
