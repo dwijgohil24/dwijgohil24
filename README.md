@@ -1,6 +1,6 @@
 <p><h1 align="center">Hi 👋, I'm DWIJSINH H GOHIL <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"</h1></p>
 
-<h3 align="center">A passionate developer & programmer. Currently working @ Meditab Softwares as a Programmer Analyst Trainee. Mobile Development Team Lead @GDSC-DDU.</h3>
+<h3 align="center">A passionate Backend developer & programmer. Currently looking for a role where i can grow & contribute as a Backend Developer. Former Mobile Development Team Lead @GDSC-DDU.</h3>
 
 
 
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on : **Flutter + Visual Cryptography + AI/ML**
 
-- 🌱 I’m currently learning : **AI / ML**
+- 🌱 I’m currently learning : **AI / ML, LLMs, Generative AI**
 
-- 💬 Ask me about : **C++, COMPETETIVE PROGRAMMING, FLUTTER, AI/ML**
+- 💬 Ask me about : **C++, Competetive Programming, FLUTTER, AI/ML, Python, Django, Backend Development**
 
 - 📫 How to reach me : **dwijgohil24@gmail.com**
 
