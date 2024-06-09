@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on : **Flutter + Visual Cryptography + AI/ML**
+- 🔭 I’m currently working on : **Django + Backend Development + AI/ML**
 
 - 🌱 I’m currently learning : **AI / ML, LLMs, Generative AI**
 
