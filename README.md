@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning : **AI / ML, LLMs, Generative AI**
 
-- 💬 Ask me about : **C++, Competetive Programming, FLUTTER, AI/ML, Python, Django, Backend Development**
+- 💬 Ask me about : **C++, Competetive Programming, Flutter, AI/ML, Python, Django, Backend Development**
 
 - 📫 How to reach me : **dwijgohil24@gmail.com**
 
