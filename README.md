@@ -1,6 +1,6 @@
 <p><h1 align="center">Hi 👋, I'm DWIJSINH H GOHIL <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"</h1></p>
 
-<h3 align="center">A passionate Backend developer & programmer. Currently looking for a role where i can grow & contribute as a Backend Developer. Former Mobile Development Team Lead @GDSC-DDU.</h3>
+<h3 align="center">A passionate Backend developer & programmer. Full Stack Development @ TCS. Former Mobile Development Team Lead @GDSC-DDU.</h3>
 
 
 
