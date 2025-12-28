@@ -143,7 +143,7 @@
 </p>
 <!-- Snake -->
 
-![snake gif](https://github.com/dwijgohil24/dwijgohil24/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/dwijgohil24/dwijgohil24/blob/main/github-snake-dark.svg)
 
 
 <!-- Footer -->
